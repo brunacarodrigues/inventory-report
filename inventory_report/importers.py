@@ -12,8 +12,9 @@ class Importer(ABC):
         ...
 
 
-class JsonImporter:
-    pass
+class JsonImporter(Importer):
+    def __init__(self, path: str) -> None:
+        super().__init__(path)
 
 
 class CsvImporter:
