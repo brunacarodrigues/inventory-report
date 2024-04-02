@@ -1,10 +1,2 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Projeto do módulo Eletiva Python.
+Criação e teste de classes e interfaces em Python, abordando conceitos como encapsulamento, polimorfismo e protocolos. Desenvolvimento de métodos e funcionalidades para gerar e processar relatórios de diferentes tipos e formatos, bem como a implementação de testes para garantir o comportamento esperado das classes e interfaces.
